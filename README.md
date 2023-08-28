@@ -1,0 +1,2 @@
+# DeathMessages
+Configure Death Messages.
